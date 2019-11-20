@@ -10,3 +10,11 @@ a {
 color : blue;
 }
 </style>
+body {
+    font-size: 14px;
+    color: navy;
+}
+h1 {
+    color: silver;
+    background-color: maroon;
+}
